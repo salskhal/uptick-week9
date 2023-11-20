@@ -5,7 +5,7 @@ import Portfolio from "../pages/Portfolio";
 import Contact from "../pages/Contact";
 
 // import routes route & useLocation hook 
-import {Routes, Route, useLocation} from "react-router-dom"
+import {Routes, Route} from "react-router-dom"
 
 const AnimRoutes = () => {
   return (
