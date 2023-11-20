@@ -1,6 +1,6 @@
 // import components
 import Socials from "./Socials";
-import Logo from "../img/header/logo.svg";
+import Logo from "../img/header/logo1.svg";
 import MobileNav from "./MobileNav";
 
 // import Link
